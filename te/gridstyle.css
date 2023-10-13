@@ -8,3 +8,17 @@
                         grid-template-columns: 1fr 1fr 1fr;
                         grid-template-rows: 1fr 3fr 1fr;
 }
+
+#page-header{
+    grid-a
+    area: header
+    main{
+        grid-area: main
+    }
+    aside{
+        grid-area: aside;
+    }
+    footer{
+        grid-area: footer;
+    }
+}
