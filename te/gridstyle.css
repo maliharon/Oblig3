@@ -10,10 +10,9 @@
 }
 
 #page-header{
-    grid-a
-    area: header
+    grid-area: header;
     main{
-        grid-area: main
+        grid-area: main;
     }
     aside{
         grid-area: aside;
