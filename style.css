@@ -55,8 +55,8 @@ main section h2 {
 
 /* Styling for artikler (nyhetsartikler) i hovedinnholdet */
 article {
-    max-width: 400px; /* Setter maksimal bredde for artiklene til 400 piksler. */
-    min-width: 250px; /* Setter minimal bredde for artiklene til 250 piksler. */
+    max-width: 150px; /* Setter maksimal bredde for artiklene til 400 piksler. */
+    min-width: 100px; /* Setter minimal bredde for artiklene til 250 piksler. */
     width: 100%; /* Gjør artiklene 100% brede for responsivt design. */
     margin: 1rem auto; /* Senterjusterer artiklene horisontalt ved å bruke margin: auto. */
     background-color: #fff;
@@ -111,7 +111,7 @@ p {
 
 /* Styling for seksjonen med id'en #pynt */
 #pynt {
-    background-image: url("img/shellfish-8080937_1280.jpg");
+    background-image: url("");
     height: 300px;
     padding: 2rem;
 }
