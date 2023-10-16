@@ -27,6 +27,7 @@ header {
 header nav ul {
     margin: 1rem 0 0 0; /* Legger til margen (margin) til toppen av navigasjonsmenyen. */
     padding: 0; /* Nullstiller padding (avstand) for å fjerne overflødig plass. */
+    
 }
 
 /* Styling for lenker i navigasjonsmenyen */
@@ -51,6 +52,7 @@ main {
 /* Styling for overskrifter (h2) i seksjoner i hovedinnholdet */
 main section h2 {
     margin: 2rem 0; /* Legger til margin (avstand) til toppen og bunnen av overskriftene. */
+    
 }
 
 /* Styling for artikler (nyhetsartikler) i hovedinnholdet */
@@ -75,6 +77,8 @@ h1 {
 /* Styling for overskriftsnivå 2 (h2) */
 h2 {
     font-size: 1.8rem;
+    
+    
 }
 
 /* Styling for overskriftsnivå 3 (h3) */
